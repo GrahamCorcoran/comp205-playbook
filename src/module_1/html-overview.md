@@ -1,12 +1,21 @@
 # HyperText Markup Language (HTML)
 
-HyperText Markup Language (HTML) is the backbone of the web, and is contained on almost every webpage that exists. To understand the purpose of HTML, we should first understand where the name comes from.
+HyperText Markup Language (HTML) is the backbone of the web, and is contained on almost every webpage that exists.
+
+## History
+
+Like so many things in software development, HTML started as a problem that needed to be solved. CERN researchers found their ability to share information with each other was disorganized at best, and researchers were worried the lack of a central source of information would mean that information would be lost, especially on larger projects. 
+
+To solve this problem, Tim Berners-Lee created a program internal to CERN that defined a structure with which scientists could share information with each other. This program worked well for them. Based on this project, Tim Berners-Lee proposed an internet-based markup language to allow for easier information sharing over the internet. This was the proposal for HTML.[^note]
+
+## So what is HTML?
+To understand the purpose of HTML, we should first understand where the name comes from. Breaking it down, there are two things we should care about:
 
 ### HyperText
 
 HyperText is text which contains links to other text you can immediately access, and these links are called Hyperlinks. This Playbook is an example of a simple collection of HyperText, as throughout the book you can click on other links to go to a different section of the book, read something external, etc.
 
-Another example of HyperText is the Wikipedia [article](https://en.wikipedia.org/wiki/Hypertext)  on Hypertext. In this article, you can click to other articles, descriptions, references, and read them instantly. 
+Another example of HyperText is the Wikipedia [article](https://en.wikipedia.org/wiki/Hypertext) on Hypertext. In this article, you can click to other articles, descriptions, references, and read them instantly. 
 
 ### Markup Language
 
@@ -32,12 +41,5 @@ HTML then is a set of rules on how to create documents that can be linked togeth
 > ```
 > Now, modify your file to add some new text. Add a sub-heading (``<h2>``) and write whatever you want. What happens when you make these changes? <br><br>
 > *Tip: If you modified your file and nothing's changing, close and re-open the file. Why do you think you have to do that?*
-
-
-## History [TODO: FINISH]
-
-Like almost everything in development, the origin of a tool is a problem that needed to be solved. CERN researchers found their ability to share information to each other was disorganized at best, and were worried the lack of a central source of information would mean that information would be lost, especially on larger projects. 
-
-To solve this problem, Tim Berners-Lee created a program to Originally, HTML was proposed by Tim Berners-Lee[^note] as a way to 
 
 [^note]: Original HTML Proposal: [HTML Proposal: Tim Berners-Lee](https://www.w3.org/History/1989/proposal.html)
