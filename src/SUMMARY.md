@@ -1,12 +1,12 @@
 # Summary
 
 [Course Overview](./course-overview.md)
-[Introduction to Web Development](./intro-web-dev.md)
+[Introduction to Web Development]()
 
 --- 
-- [Web Page Structure and Navigation](./module_1/overview.md)
+- [Web Page Structure and Navigation]()
     - [HyperText Markup Language](./module_1/html-overview.md)
-    - [The HTML Element](./module_1/the-html-element.md)
+    - [The HTML Element]()
     - [Basic Page Structure]()
     - [Introduction to Specific Elements]()
     - [Interactive Elements]()
