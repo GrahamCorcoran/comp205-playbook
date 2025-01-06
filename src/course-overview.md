@@ -16,9 +16,12 @@ I got drawn to programming as the logical thinking and problem-solving required 
 
 Web Development (COMP205) Playbook - "The Playbook", is a tool provided to you in order to assist with the course material. It is structured in approximately the same way the course is, and will be a valuable resource throughout the course.
 
-<div class="warning">
-<strong>The Playbook is a supplement only!</strong><br><br> This Playbook is an evolving book, and it may update periodically with clarifications, so the content may change slightly. The ultimate source of truth for the course material is Blackboard, and this Playbook is provided as a supplement only. Please refer to Blackboard directly for important handouts such as the Course Outline, Learning Plan, and due dates.
-</div>
+
+```admonish warning
+**The Playbook is a supplement only!**
+
+ This Playbook is an evolving book, and it may update periodically with clarifications, so the content may change slightly. The ultimate source of truth for the course material is Blackboard, and this Playbook is provided as a supplement only. Please refer to Blackboard directly for important handouts such as the Course Outline, Learning Plan, and due dates.
+```
 
 ### Reference
 

@@ -5,5 +5,14 @@ multilingual = false
 src = "src"
 title = "Web Development (COMP205) Playbook"
 
+[output.html]
+additional-css = ["./mdbook-admonish.css"]
+
 [output.html.playground]
 editable = true
+
+[preprocessor]
+
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "3.0.2" # do not edit: managed by `mdbook-admonish install`

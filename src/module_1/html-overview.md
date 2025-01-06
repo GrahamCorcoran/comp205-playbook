@@ -27,19 +27,21 @@ Other examples of markup languages aside from HTML include [Markdown](https://da
 
 HTML then is a set of rules on how to create documents that can be linked together. Web Browsers understand what the rules mean, and so they will link web pages together without you needing to do any additional work to make references work.
 
-> **Lecture Exercise - First HTML Page** <br>
-> HTML Pages are very simple and can be created in just a few lines of code. Your existing web browser already knows how to handle HTML files, and so you don't need to install anything to get up and running right away. Try the following:
-> 1. In your COMP205 directory, create a new file. Call it ``hello_world.html``
-> 2. Copy the text below into the file. <br>
-> 3. Save the file, and exit.
-> 4. In your File Explorer, double-click on the HTML file to open it.
-> 
-> Your file should open up your default web browser. You just created your first web page! It's a pretty boring web page, but it's a web page. If you send this page to someone else, they'll see your heading in larger, bold text, and your regular text. This was *encoded* directly in the HTML file.
-> ```html
-> <h1>Hello, COMP205</h1>
-> <p>This is a fully functional webpage, although maybe a bit boring...</p>
-> ```
-> Now, modify your file to add some new text. Add a sub-heading (``<h2>``) and write whatever you want. What happens when you make these changes? <br><br>
-> *Tip: If you modified your file and nothing's changing, close and re-open the file. Why do you think you have to do that?*
+~~~admonish note title="Lecture Exercise - First HTML Page"
+HTML Pages are very simple and can be created in just a few lines of code. Your existing web browser already knows how to handle HTML files, and so you don't need to install anything to get up and running right away. Try the following:
+1. In your COMP205 directory, create a new file. Call it ``hello_world.html``
+2. Copy the text below into the file. <br>
+3. Save the file, and exit.
+4. In your File Explorer, double-click on the HTML file to open it.
+
+Your file should open up your default web browser. You just created your first web page! It's a pretty boring web page, but it's a web page. If you send this page to someone else, they'll see your heading in larger, bold text, and your regular text. This was *encoded* directly in the HTML file.
+```html
+<h1>Hello, COMP205</h1>
+<p>This is a fully functional webpage, although maybe a bit boring...</p>
+```
+Now, modify your file to add some new text. Add a sub-heading (``<h2>``) and write whatever you want. What happens when you make these changes? <br><br>
+
+*Tip: If you modified your file and nothing's changing, close and re-open the file. Why do you think you have to do that?*
+~~~
 
 [^note]: Original HTML Proposal: [HTML Proposal: Tim Berners-Lee](https://www.w3.org/History/1989/proposal.html)
