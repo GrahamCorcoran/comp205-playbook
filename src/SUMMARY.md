@@ -6,7 +6,7 @@
 --- 
 - [Web Page Structure and Navigation](./module_1/overview.md)
     - [HyperText Markup Language](./module_1/html-overview.md)
-    - [The HTML Element]()
+    - [The HTML Element](./module_1/the-html-element.md)
     - [Basic Page Structure]()
     - [Introduction to Specific Elements]()
     - [Interactive Elements]()
@@ -27,3 +27,4 @@
 
 [Introduction to Git]()
 [Extra Resources](./extra/resources.md)
+[Course Coding Standards](./extra/coding-standards.md)
