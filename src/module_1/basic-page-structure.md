@@ -31,7 +31,7 @@ A div can be styled independently, which means you can, for example, set a backg
 ## Semantic Structural Elements
 In modern websites, there are common sections of a site that serve a similar purpose. For example, many sites (including this book!) have a sidebar that serves as a way to navigate through content quickly, especially for sites with multi-step forms, or books.
 
-This sidebar is contained within a **semantic structural element**. In this context, semantic just means it has a specific purpose. By extension, semantic structure elements are elements which serves to group content like a ``<div>``, but in a way that is more specific to what we're trying to achieve. For example, the ``<header>`` element serves as a semantic structural element for the header of a page. Usually this contains information about the page (such as a title), or navigational tools such as links to different sections of the site.
+This sidebar is contained within a **semantic structural element**. In this context, semantic just means it has a specific purpose. By extension, semantic structure elements are elements which serves to group content like a ``<div>``, but in a way that is more specific to what we're trying to achieve. For example, the ``<header>`` element serves as a semantic structural element for the header of a page. Usually this contains general information about the page (such as a title), or navigational tools such as links to different sections of the site.
 
 ~~~admonish note title="Lecture Exercise - Introduction to the Inspector"
 
@@ -48,3 +48,10 @@ Can you determine which structural elements this is contained within?
 
 Are any of the structural elements that this is contained within considered semantic structural elements? If so, which one(s)?
 ~~~
+
+| Element        | Tag          | Purpose                                                                                                                                                                                                    |
+|----------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Header         | ``<header>`` | Almost always on the top of the page as a "strip" or "banner", serves to provide general information or navigational links.                                                                                |
+| Navigation Bar | ``<nav>``    | Provides navigational links, usually on multi-page content or forms. Often on the side of a page as a sidebar, but this isn't required.                                                                    |
+| Main Content   | ``<main>``   | The main content of the page. Usually the largest section, this contains the primary information the page is conveying.                                                                                    |
+| Footer         | ``<footer>`` | A "strip" or "banner" of information along the bottom of the page. This usually contains information that is not intended to generally be accessed but should be available, such as copyright information. |
