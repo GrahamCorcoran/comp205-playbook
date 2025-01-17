@@ -49,6 +49,9 @@ Can you determine which structural elements this is contained within?
 Are any of the structural elements that this is contained within considered semantic structural elements? If so, which one(s)?
 ~~~
 
+
+The following are the Semantic Structural Elements that we should be aware of for this course.
+
 | Element        | Tag          | Purpose                                                                                                                                                                                                    |
 |----------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Header         | ``<header>`` | Almost always on the top of the page as a "strip" or "banner", serves to provide general information or navigational links.                                                                                |
