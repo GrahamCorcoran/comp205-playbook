@@ -3,7 +3,7 @@
 As we've discussed already, HTML is structured in a way that makes it as easy as possible to share text-based information. Regularly, we need to display this information in a way that clearly groups different parts of the information together.
 
 ```admonish info
-This is an example of an Info callout. This is an example of a set of information being displayed differently than the rest. In the case of info boxes like this, they serve as a visual highlight which can represent very important information, or information that diverges slightly from the main content of the page.
+This is an example of an Info callout. This callout is an example of a set of information being displayed differently than the rest of the page. In the case of info boxes like this, they serve as a visual highlight which can represent very important information, or information that diverges slightly from the main content of the page.
 
 This info box is contained within a structural element called a ``<div>`` that modifies the styling of this content only to catch your eye.
 ```

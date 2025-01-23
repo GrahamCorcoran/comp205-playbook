@@ -7,7 +7,7 @@
 - [Web Page Structure and Navigation](./module_1/overview.md)
     - [HyperText Markup Language](./module_1/html-overview.md)
     - [The HTML Element](./module_1/the-html-element.md)
-    - [Basic Page Structure]()
+    - [Basic Page Structure](./module_1/basic-page-structure.md)
     - [Introduction to Specific Elements]()
     - [Interactive Elements]()
     - [HTML Elements Reference]()
