@@ -10,7 +10,7 @@
     - [Basic Page Structure](./module_1/basic-page-structure.md)
     - [Introduction to Specific Elements]()
     - [Interactive Elements]()
-    - [HTML Elements Reference]()
+    - [HTML Elements Reference](./module_1/elements-reference.md)
 
 - [Styling and Layout]()
     - [Cascading Style Sheets]()

@@ -14,6 +14,7 @@ In addition to reviewing the content above, you should feel comfortable answerin
 
 [ ] What is the difference between the head element and the header element?
 [ ] What is an attribute, and what does it do?
+[ ] Do all elements have **content**?
 [ ] What are nested elements?
 [ ] What are structural elements?
 [ ] What are semantic structure elements, and how do they differ from regular structural elements?
