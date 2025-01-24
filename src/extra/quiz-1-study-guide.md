@@ -12,15 +12,15 @@ You may also want to refer to the [HTML Elements Reference](../module_1/elements
 
 In addition to reviewing the content above, you should feel comfortable answering the following questions:
 
-[ ] What is the difference between the head element and the header element?
-[ ] What is an attribute, and what does it do?
-[ ] Do all elements have **content**?
-[ ] What are nested elements?
-[ ] What are structural elements?
-[ ] What are semantic structure elements, and how do they differ from regular structural elements?
-[ ] What are some examples of structural elements?
-[ ] What does HTML stand for?
-[ ] What is a markup language?
-[ ] What is Hypertext?
-[ ] Describe Frontend Development, Backend Development, and Full Stack development.
-[ ] Describe another type of Web Development in addition to the three in the previous question.
+- What is the difference between the head element and the header element?
+- What is an attribute, and what does it do?
+- Do all elements have **content**?
+- What are nested elements?
+- What are structural elements?
+- What are semantic structure elements, and how do they differ from regular structural elements?
+- What are some examples of structural elements?
+- What does HTML stand for?
+- What is a markup language?
+- What is Hypertext?
+- Describe Frontend Development, Backend Development, and Full Stack development.
+- Describe another type of Web Development in addition to the three in the previous question.
