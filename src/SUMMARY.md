@@ -8,8 +8,8 @@
     - [HyperText Markup Language](./module_1/html-overview.md)
     - [The HTML Element](./module_1/the-html-element.md)
     - [Basic Page Structure](./module_1/basic-page-structure.md)
-    - [Introduction to Specific Elements]()
-    - [Interactive Elements]()
+    - [Introduction to Specific Elements](./module_1/headings-lists-tables.md)
+    - [Interactive Elements](./module_1/interactive-elements.md)
     - [HTML Elements Reference](./module_1/elements-reference.md)
 
 - [Styling and Layout]()
