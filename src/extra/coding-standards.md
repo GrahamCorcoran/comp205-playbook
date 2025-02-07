@@ -11,7 +11,7 @@ In this course, please follow the following basic coding standards to ensure con
 ### 1. Use Proper Doctype Declaration
 Always start each HTML file with ``<!DOCTYPE html>``.
 
-### 2. Use Specfiic Elements Over Generic Elements
+### 2. Use Specific Elements Over Generic Elements
 Where it makes sense, use appropriate tags such as ``<header>`` rather than a more generic ``<div>`` tag.
 
 ### 3. Indent Nested Elements
@@ -55,7 +55,7 @@ Avoid inline styling for maintainability, and prefer instead external stylesheet
 ```
 
 ### 2. Use Hex, RGB, or Named Colours Consistently
-You may use any valid color definition, but you should use them consistent. Hexadecimal is recommended.
+You may use any valid color definition, but you should use them consistently. Hexadecimal is recommended.
 ```
 color: #ff6600; /* Hexadecimal */
 ```
