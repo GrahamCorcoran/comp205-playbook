@@ -27,5 +27,5 @@
 
 [Introduction to Git]()
 [Extra Resources](./extra/resources.md)
-[Quiz 1 Study Guide](./extra/quiz-1-study-guide.md)
+[Quiz 2 Study Guide](./extra/quiz-2-study-guide.md)
 [Course Coding Standards](./extra/coding-standards.md)
