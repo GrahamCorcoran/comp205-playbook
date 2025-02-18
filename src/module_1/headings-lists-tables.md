@@ -1,5 +1,5 @@
 # Introduction to Specific Elements
-So far, we have discussed many different forms of text-based eleemnts where the purpose of the element was to display or modify text in some way, such as paragraph elements and heading elements. We've also learned about how to use divisions to "section off" multiple elements at the same time, for example to hide many elements at once.
+So far, we have discussed many different forms of text-based elements where the purpose of the element was to display or modify text in some way, such as paragraph elements and heading elements. We've also learned about how to use divisions to "section off" multiple elements at the same time, for example to hide many elements at once.
 
 Some elements have specific meanings and purposes, and you should be aware of them and how to use them. In this section, we'll discuss *lists*, *media*, and *tables*. In the next section, we will discuss *forms* and how basic interactivity can be achieved using them.
 
