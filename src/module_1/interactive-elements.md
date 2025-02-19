@@ -28,7 +28,7 @@ Several input types we will use include:
 For a complete list of ``<input>`` types, see [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#input_types).
 
 ## Select Element
-Another way of adding information is a select box, which is used when you know the different options a user could choose. Selects are very helpful for ensuring data integrity, by preventing the user from submitting anything except for the pre-determined information you'd like them to.
+The first way to add information we will discuss which you are already familiar with from your day-to-day life is a select box, which is used when you know the different options a user could choose. Selects are very helpful for ensuring data integrity, by preventing the user from submitting anything except for the pre-determined information you'd like them to.
 
 ```html
 <select id="pizza" name="pizza">
@@ -38,12 +38,45 @@ Another way of adding information is a select box, which is used when you know t
   <option value="cheese">Cheese</option>
 </select>
 ```
-On this page, this select is rendered like so:
+On this page, this select is rendered[^note] like so:
+<select id="pizza" name="pizza">
+  <option value="veggie">Vegetarian</option>
+  <option value="canadian">Canadian</option>
+  <option value="meat">Meat</option>
+  <option value="cheese">Cheese</option>
+</select> 
+
+In this code, we introduce the `value` and `name` attributes. These attributes work together to allow the `select` to build data that can be sent to the back end server that the form is submitting to. For example, in the above example you can imagine the following data gets sent to a server when you select the `veggie` option.
+
+```json
+{
+  "pizza": "veggie"
+}
+```
+
+If you selected the `canadian` option instead, the name would be the same, but the `value` would be different. This is very helpful when combined with more complicated forms to ensure you can parse the information that is being sent to you.
+
+```json
+{
+  "pizza": "canadian"
+}
+```
+[^note]: Since this book contains custom CSS, a default select will look different without styling.
+
+
+## Label Element
+When creating forms, we can use labels to associate text directly to an input. Beyond just using a generic text element, this achieves more by being programmatically linked to the input. This helps us in a few ways:
+- We are able to trust that screen readers and other accessibility tools will be able to parse information about our inputs.
+- It increases the physical area of the form inputs, meaning it's easier to select, especially on a mobile device where you use touch controls.
+
+Labels use the `for` attribute to specify the `id` of the element which they are labelling. For example, given our pizza selector above, we might use the following label:
+
+```html
+<label for="pizza">Select your pizza:</label>
 <select id="pizza" name="pizza">
   <option value="veggie">Vegetarian</option>
   <option value="canadian">Canadian</option>
   <option value="meat">Meat</option>
   <option value="cheese">Cheese</option>
 </select>
-
-Note, this book contains custom CSS so a default select will look different without styling.
+```
