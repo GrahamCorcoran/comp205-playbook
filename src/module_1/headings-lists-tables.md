@@ -76,7 +76,7 @@ A table is a common way to display data that is multi-dimensional, or sometimes 
 - ``<table>`` - the main table element which specifies the entire table.
 - ``<tr>`` - the table row element, which creates a new row.
 - ``<td>`` - the table data element which specifies a cell within a row.
-- ``<th>`` - the table header eleemnt, which you use instead of ``<td>`` for header information, rather than data.
+- ``<th>`` - the table header element, which you use instead of ``<td>`` for header information, rather than data.
 
 By default, the ``<th>`` element bolds and centers the headers of a table. This can be modified through CSS.
 
