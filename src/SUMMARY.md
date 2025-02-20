@@ -12,9 +12,9 @@
     - [Interactive Elements](./module_1/interactive-elements.md)
     - [HTML Elements Reference](./module_1/elements-reference.md)
 
-- [Styling and Layout]()
-    - [Cascading Style Sheets]()
-    - [CSS Selectors, Attributes, and Classes]()
+- [Styling and Layout](./module_2/overview.md)
+    - [Cascading Style Sheets](./module_2/css-basics.md)
+    - [CSS Selectors, Attributes, and Classes](./module_2/css-selectors.md)
     - [Debugging Web Applications]()
 
 - [Dynamic Sites and JavaScript]()

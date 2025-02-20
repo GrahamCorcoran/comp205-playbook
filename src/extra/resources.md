@@ -14,3 +14,8 @@ This Extra Resources section is an ongoing list of resources that may be helpful
 | Link | Description |
 |---------|---------|
 | [HTML Attribute Reference (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes) | A reference list of all HTML Attributes.|
+
+## CSS 
+| Link | Description |
+|---------|---------|
+| [CSS Properties Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) | A reference list of all CSS Properties.|
