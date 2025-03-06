@@ -15,7 +15,7 @@
 - [Styling and Layout](./module_2/overview.md)
     - [Cascading Style Sheets](./module_2/css-basics.md)
     - [CSS Selectors, Attributes, and Classes](./module_2/css-selectors.md)
-    - [Debugging Web Applications]()
+    - [Debugging Web Applications](./module_2/intro-to-debugging.md)
 
 - [Dynamic Sites and JavaScript]()
     - [JavaScript Basic Syntax]()

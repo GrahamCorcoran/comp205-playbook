@@ -109,6 +109,7 @@ There are a lot of different things you can do with CSS. Each change you might w
 
 ## Properties
 The following table contains a list of properties we will use in this course, as well as examples of how they can be used.
+
 | Property            | Description                                       | Example                          |
 |--------------------|-------------------------------------------------|----------------------------------|
 | `color`            | Sets the text color of an element. Can use color names or other color definitions such as hex values.               | `color: blue;` or `color: #0000FF`                   |
