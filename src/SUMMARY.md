@@ -16,6 +16,8 @@
     - [Cascading Style Sheets](./module_2/css-basics.md)
     - [CSS Selectors, Attributes, and Classes](./module_2/css-selectors.md)
     - [Debugging Web Applications](./module_2/intro-to-debugging.md)
+    - [Introduction to Git](./module_2/intro-to-git.md)
+
 
 - [Dynamic Sites and JavaScript]()
     - [JavaScript Basic Syntax]()
@@ -25,7 +27,6 @@
 
 --- 
 
-[Introduction to Git]()
 [Extra Resources](./extra/resources.md)
 [Quiz 2 Study Guide](./extra/quiz-2-study-guide.md)
 [Course Coding Standards](./extra/coding-standards.md)
