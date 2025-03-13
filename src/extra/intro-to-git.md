@@ -20,6 +20,34 @@ A commit is a version of your code at a single point in time. The way git handle
 
 ### Google Drive Example
 
+### Commit Flow
+1. No changes
+2. Changes (unstaged)
+3. Changes (staged)
+4. Committed 
+
 ## Basic Usage
 
 ## What is a branch?
+
+## What is remote?
+
+## Git Command Reference
+### Basic Commands 
+The basic commands below you are required to know, and should be able to describe their usage on a quiz.
+
+git init
+git add
+git commit
+git log
+git status
+git reset
+
+### Additional Commands
+The following additional commands are not required for this course, but you will need them regularly and you may find it useful to understand them.
+
+git stash
+git stash pop
+git revert
+git branch
+git checkout
