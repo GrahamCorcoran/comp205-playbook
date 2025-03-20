@@ -19,11 +19,12 @@
     - [Introduction to Git](./module_2/intro-to-git.md)
 
 
-- [Dynamic Sites and JavaScript]()
+- [Dynamic Sites and JavaScript](./module_3/overview.md)
     - [JavaScript Basic Syntax]()
-    - [Functions]()
-    - [Events]()
+    - [Events](./module_3/events.md)
     - [Event Handling]()
+    - [Functions]()
+
 
 --- 
 
