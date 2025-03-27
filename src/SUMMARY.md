@@ -21,10 +21,9 @@
 
 - [Dynamic Sites and JavaScript](./module_3/overview.md)
     - [JavaScript Basic Syntax]()
+    - [Functions](./module_3/functions.md)
     - [Events](./module_3/events.md)
     - [Event Handling]()
-    - [Functions]()
-
 
 --- 
 
