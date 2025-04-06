@@ -20,10 +20,10 @@
 
 
 - [Dynamic Sites and JavaScript](./module_3/overview.md)
-    - [JavaScript Basic Syntax]()
-    - [Functions](./module_3/functions.md)
-    - [Events](./module_3/events.md)
-    - [Event Handling]()
+    - [The HTML DOM](./module_3/dom.md)
+    - [Event Handling](./module_3/event_handling.md)
+        - [Example Event Handler](./module_3/event_handling_example.md)
+
 
 --- 
 
