@@ -1,4 +1,4 @@
-# Quiz 3 Study Guide
+# Quiz 4 Study Guide
 
 The fourth and final quiz of the course will include any content we covered in the course. The majority of the content will focus on the content discussed in Weeks 10-14, surrounding Event Handling. You should ensure you are comfortable with:
 - [The Overview from Module 1](../module_1/overview.md)
