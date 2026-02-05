@@ -28,5 +28,5 @@
 --- 
 
 [Extra Resources](./extra/resources.md)
-[Quiz 4 Study Guide](./extra/quiz-4-study-guide.md)
+[Quiz 1 Study Guide](./extra/quiz-1-study-guide.md)
 [Course Coding Standards](./extra/coding-standards.md)

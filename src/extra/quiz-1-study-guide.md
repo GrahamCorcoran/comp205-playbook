@@ -1,6 +1,6 @@
 # Quiz 1 Study Guide
 
-The first quiz of the course will include any content we covered in weeks 1-3. You can review details of what that was on the following pages:
+The first quiz of the course will include any content we covered in weeks 1-4. You can review details of what that was on the following pages:
 - [Introduction to Web Development](../intro-web-dev.md)
 - [HyperText Markup Language](../module_1/html-overview.md)
 - [The HTML Element](../module_1/the-html-element.md)
