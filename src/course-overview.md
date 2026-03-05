@@ -8,7 +8,7 @@ In COMP205, we are learning to use HTML to create web pages and link multiple we
 
 ## About Your Professor
 
-👋 Hi, I'm Graham! I'm a St. Lawrence College graduate, and I work in the industry as an Engineering Manager. I have two cats and a dog, and I really enjoy teaching!
+👋 Hi, I'm Graham! I'm a St. Lawrence College graduate, and I work in the industry as a Software Engineer. I have two cats and two dogs, and I really enjoy teaching!
 
 I got drawn to programming as the logical thinking and problem-solving required really works well for my brain, and I find it incredibly satisfying to finally crack a sneaky bug.
 
