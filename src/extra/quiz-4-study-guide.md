@@ -10,11 +10,11 @@ The fourth and final quiz of the course will include any content we covered in t
 ```admonish info title="How am I supposed to study all that?"
 The quiz will focus primarily on the Event Handling concepts. At this point in the course, you are still expected to know the basics of how HTML works, and the basics of how CSS works. There will be no *written* questions that require you to remember specifics of CSS and HTML syntax, as in the real world you would be able to Google these things.
 
-✅ **Do** ensure to still study CSS selectors, as they are also used in JavaScript
+**Do** ensure to still study CSS selectors, as they are also used in JavaScript
 
-✅ **Do** ensure you understand the overall concepts from Modules 1 and 2.
+**Do** ensure you understand the overall concepts from Modules 1 and 2.
 
-❌ **Don't** worry about syntax details from Modules 1 and 2.
+**Don't** worry about syntax details from Modules 1 and 2.
 ```
 
 ## Key Concepts
